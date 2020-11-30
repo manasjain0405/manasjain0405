@@ -2,6 +2,8 @@
   "name" : "Manas Jain",
   "email" : "manasjain0405@gmail.com",
   "dateFormat" : "",
+  "resumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/Resume.pdf",
+  "shortResumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/Resume_One_Page.pdf",
   "experience" : [{
     "title" : "Fullstack Intern",
     "company" : "CDNA Technologies Private Limited (Nuclei)",
