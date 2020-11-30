@@ -1,4 +1,50 @@
 {
   "name" : "Manas Jain",
-  "email" : "manasjain0405@gmail.com"
+  "email" : "manasjain0405@gmail.com",
+  "dateFormat" : "",
+  "experience" : [{
+    "title" : "Fullstack Intern",
+    "company" : "CDNA Technologies Private Limited (Nuclei)",
+    "location" : "Bangalore, India",
+    "description" : "Developed spring boot micro-services to serve Add-Ons for travel category(Flights, Cabs, Hotels etc)",
+    "technology" : ["Spring Boot", "gRPC", "Apache Kafka"],
+    "projectManagement" : ["Git", "Jira"],
+    "startDate" : "December 2019",
+    "endDate" : "Febuary 2020",
+    "companyURL" : "https://gonuclei.com/"
+  }, {
+    "title" : "Summer Intern",
+    "company" : "Ittiam Systems Private Limited",
+    "location" : "Bangalore, India",
+    "description" : "Developed web based dashboards oftware to manage Ittiam Insite IOT devices deployed across the globe",
+    "technology" : ["React JS", "JQuery"],
+    "projectManagement" : ["Git"],
+    "startDate" : "May 2019",
+    "endDate" : "July 2020",
+    "companyURL" : "https://www.ittiam.com/"
+  }],
+  "languages" : ["Java", "Python", "C", "Go Language", "MySQL"],
+  "technology" : ["Spring Boot","React JS", "Git", "gRPC", "Firebase", "Apache Kafka"],
+  "education" : [{
+    "title" : "BE in Computer Science",
+    "school" : "Shri Govindram Seksaria Institute of Technology and Science",
+    "locaton" : "Indore, India",
+    "affiliation" : "Rajiv Gandhai Proudyogiki Vishwavidyalaya",
+    "date" : "September 2020",
+    "grades" : "8.05 CGPA"
+  }, {
+    "title" : "Intermediate/+2",
+    "school" : "St. Joseph's Co-Ed School",
+    "locaton" : "Bhopal, India",
+    "affiliation" : "Centeral Board of Secondary Education",
+    "date" : "May 2016",
+    "grades" : "91.6%"
+  }, {
+    "title" : "Matriculation",
+    "school" : "St. Joseph's Co-Ed School",
+    "locaton" : "Bhopal, India",
+    "affiliation" : "Centeral Board of Secondary Education",
+    "date" : "May 2014",
+    "grades" : "9.6 CGPA"
+  }]
 }
