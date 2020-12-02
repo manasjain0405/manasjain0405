@@ -10,8 +10,7 @@
     "company" : "CDNA Technologies Private Limited (Nuclei)",
     "location" : "Bangalore, India",
     "description" : "Developed spring boot micro-services to serve Add-Ons for travel category(Flights, Cabs, Hotels etc)",
-    "technology" : ["Spring Boot", "gRPC", "Apache Kafka"],
-    "projectManagement" : ["Git", "Jira"],
+    "technology" : ["Spring Boot", "gRPC", "Apache Kafka", "Git", "Jira"],
     "startDate" : "December 2019",
     "endDate" : "Febuary 2020",
     "companyURL" : "https://gonuclei.com/"
@@ -21,8 +20,7 @@
     "company" : "Ittiam Systems Private Limited",
     "location" : "Bangalore, India",
     "description" : "Developed web based dashboards oftware to manage Ittiam Insite IOT devices deployed across the globe",
-    "technology" : ["React JS", "JQuery"],
-    "projectManagement" : ["Git"],
+    "technology" : ["React JS", "JQuery", "Git"],
     "startDate" : "May 2019",
     "endDate" : "July 2020",
     "companyURL" : "https://www.ittiam.com/"
