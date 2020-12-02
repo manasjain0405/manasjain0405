@@ -5,6 +5,7 @@
   "resumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/Resume.pdf",
   "shortResumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/Resume_One_Page.pdf",
   "experience" : [{
+    "id" : "experience2",
     "title" : "Fullstack Intern",
     "company" : "CDNA Technologies Private Limited (Nuclei)",
     "location" : "Bangalore, India",
@@ -15,6 +16,7 @@
     "endDate" : "Febuary 2020",
     "companyURL" : "https://gonuclei.com/"
   }, {
+    "id" : "experience1",
     "title" : "Summer Intern",
     "company" : "Ittiam Systems Private Limited",
     "location" : "Bangalore, India",
@@ -30,14 +32,14 @@
   "education" : [{
     "title" : "BE in Computer Science",
     "school" : "Shri Govindram Seksaria Institute of Technology and Science",
-    "locaton" : "Indore, India",
+    "location" : "Indore, India",
     "affiliation" : "Rajiv Gandhai Proudyogiki Vishwavidyalaya",
     "date" : "September 2020",
     "grades" : "8.05 CGPA"
   }, {
     "title" : "Intermediate/+2",
     "school" : "St. Joseph's Co-Ed School",
-    "locaton" : "Bhopal, India",
+    "location" : "Bhopal, India",
     "affiliation" : "Centeral Board of Secondary Education",
     "date" : "May 2016",
     "grades" : "91.6%"
