@@ -2,8 +2,8 @@
   "name" : "Manas Jain",
   "email" : "manasjain0405@gmail.com",
   "dateFormat" : "",
-  "resumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/Resume.pdf",
-  "shortResumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/Resume_One_Page.pdf",
+  "resumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/resume/Resume.pdf",
+  "shortResumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/resume/Resume_One_Page.pdf",
   "experience" : [{
     "id" : "experience2",
     "title" : "Fullstack Intern",
@@ -28,6 +28,7 @@
   "languages" : ["Java", "Python", "C", "Go Language", "MySQL"],
   "technology" : ["Spring Boot","React JS", "Git", "gRPC", "Firebase", "Apache Kafka"],
   "education" : [{
+    "id" : "education1",
     "title" : "BE in Computer Science",
     "school" : "Shri Govindram Seksaria Institute of Technology and Science",
     "location" : "Indore, India",
@@ -35,6 +36,7 @@
     "date" : "September 2020",
     "grades" : "8.05 CGPA"
   }, {
+    "id" : "education2",
     "title" : "Intermediate/+2",
     "school" : "St. Joseph's Co-Ed School",
     "location" : "Bhopal, India",
@@ -42,6 +44,7 @@
     "date" : "May 2016",
     "grades" : "91.6%"
   }, {
+    "id" : "education3",
     "title" : "Matriculation",
     "school" : "St. Joseph's Co-Ed School",
     "location" : "Bhopal, India",
