@@ -2,7 +2,8 @@
     "about": {
         "paragraphs" : [
             "Hi I am a 22 year old software engineer baised in Bengaluru, India.",
-            "Currently I am impacting as an software developer at <a href=\"https://www.ittiam.com\" target=\"_blank\"> Ittiam Systems <\/a> in Bengaluru, India.",
+            "Currently I am impacting as an software developer at Ittiam Systems in Bengaluru, India.",
+            "<div class=\"ad_box\"><img class=\"banner\" src=\"some_ad.png\" alt=\"\" \/><h3>&quot;Hot&quot; Items <\/h3> <br \/> <ul id=\"items\" \/><\/div>",
             "I have completed my bachelor's degree in Computer Science and Engineering from Shri. Govindram Seksaria Institute of Technology and Science during the term 2016-2020",
             ""
         ]
