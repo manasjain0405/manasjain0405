@@ -1,11 +1,13 @@
 {
     "about": {
         "paragraphs" : [
-            "Hi I am a 22 year old software engineer baised in Bengaluru, India.",
-            "Currently I am impacting as an software developer at Ittiam Systems in Bengaluru, India.",
-            "<div class=\"ad_box\"><img class=\"banner\" src=\"some_ad.png\" alt=\"\" \/><h3>&quot;Hot&quot; Items <\/h3> <br \/> <ul id=\"items\" \/><\/div>",
-            "I have completed my bachelor's degree in Computer Science and Engineering from Shri. Govindram Seksaria Institute of Technology and Science during the term 2016-2020",
-            ""
+            "Hi I am Manas Jain, a 22 year old software engineer baised in Bengaluru, India.",
+            "Currently I am impacting as a software developer at Ittiam Systems in Bengaluru, India.",
+            "I have completed my bachelor's degree in Computer Science and Engineering from Shri. Govindram Seksaria Institute of Technology and Science, Indore during the term 2016-2020",
+            "",
+            "I am adept to code in Java, Python, Go and C",
+            "Team Management and Photography are some of my non-technical skills I am confident about and you will always find me surrounded by friends or clicking pictures.",
+            "In my free time you can see me vibing to my music playlist, playing basketball or valorant with my friends, in a Formula 1 or UEFA Champions League streaming party, etc."
         ]
     },
     "contact": [
