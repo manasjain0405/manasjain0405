@@ -4,10 +4,21 @@
   "dateFormat" : "",
   "resumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/resume/Resume.pdf",
   "shortResumeURL":"https://raw.githubusercontent.com/manasjain0405/manasjain0405/main/static/resume/Resume_One_Page.pdf",
-  "experience" : [{
+  "experience" : [
+    {
+      "id" : "experience3",
+      "title" : "Software Engineer",
+      "company" : "Groww (Billionbrains Garage Ventures Pvt. Ltd.)",
+      "location" : "Bangalore, India",
+      "description" : "Working as a backend developer",
+      "technology" : ["Spring Boot", "Git"],
+      "startDate" : "January 2021",
+      "endDate" : "Present",
+      "companyURL" : "https://groww.in/"
+    },{
     "id" : "experience2",
     "title" : "Fullstack Intern",
-    "company" : "CDNA Technologies Private Limited (Nuclei)",
+    "company" : "Nuclei (CDNA Technologies Private Limited)",
     "location" : "Bangalore, India",
     "description" : "Developed spring boot micro-services to serve Add-Ons for travel category(Flights, Cabs, Hotels etc)",
     "technology" : ["Spring Boot", "gRPC", "Apache Kafka", "Git", "Jira"],
