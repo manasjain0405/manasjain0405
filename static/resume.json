@@ -11,7 +11,7 @@
       "company" : "Groww (Billionbrains Garage Ventures Pvt. Ltd.)",
       "location" : "Bangalore, India",
       "description" : "Working as a backend developer",
-      "technology" : ["Spring Boot", "Git"],
+      "technology" : ["Spring Boot", "Apache Kafka", "Redis", "Spring Cloud Stream", "Project Reactor", "RabbitMQ", "Git"],
       "startDate" : "January 2021",
       "endDate" : "Present",
       "companyURL" : "https://groww.in/"
@@ -21,7 +21,7 @@
     "company" : "Nuclei (CDNA Technologies Private Limited)",
     "location" : "Bangalore, India",
     "description" : "Developed spring boot micro-services to serve Add-Ons for travel category(Flights, Cabs, Hotels etc)",
-    "technology" : ["Spring Boot", "gRPC", "Apache Kafka", "Git", "Jira"],
+    "technology" : ["Spring Boot", "gRPC", "Apache Kafka", "Git"],
     "startDate" : "December 2019",
     "endDate" : "Febuary 2020",
     "companyURL" : "https://gonuclei.com/"
@@ -37,7 +37,7 @@
     "companyURL" : "https://www.ittiam.com/"
   }],
   "languages" : ["Java", "Python", "C", "Go Language", "MySQL"],
-  "technology" : ["Spring Boot","React JS", "Git", "gRPC", "Firebase", "Apache Kafka"],
+  "technology" : ["Spring Boot","Apache Kafka", "Spring Cloud Stream", "Project Reactor", "Redis", "RabbitMQ", "Git", "gRPC", "Firebase" ],
   "education" : [{
     "id" : "education1",
     "title" : "BE in Computer Science",
