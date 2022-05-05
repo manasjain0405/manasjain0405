@@ -10,7 +10,7 @@
       "title" : "Software Engineer",
       "company" : "Groww (Billionbrains Garage Ventures Pvt. Ltd.)",
       "location" : "Bangalore, India",
-      "description" : "Working in Onboarding Backend team responsible for smooth onboarding of users and making them investment ready \n Building an end to end KYC platform responsible for data collection, verification and updating the same to required third parties with emphasis on robustness and optimization of the time required to integrate new onboarding flows.",
+      "description" : "Working in Onboarding Backend team responsible for smooth onboarding of users and making them investment ready. Building an end to end KYC platform responsible for data collection, verification and updating the same to required third parties with emphasis on robustness and optimization of the time required to integrate new onboarding flows.",
       "technology" : ["Spring Boot", "Apache Kafka", "Redis", "Spring Cloud Stream", "Project Reactor", "RabbitMQ", "Git"],
       "startDate" : "January 2021",
       "endDate" : "Present",
